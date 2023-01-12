@@ -1,0 +1,46 @@
+
+    *{
+        margin: 0%;
+        padding:0%;
+        box-sizing: border-box;
+        background: linear-gradient(to right, #fc5c7d, #6a82fb);
+    }
+    .Containter{
+        
+        
+        border-radius: 15px;
+        margin-top:15%;
+        margin-left:25%;
+       max-width:49%;
+       height:250px;
+       box-shadow: 13px black;
+       background-color: rgb(74, 164, 244);
+       
+    }
+    h1{
+        text-align: center;
+        color: rgb(134, 35, 35);
+          background-color: rgb(74, 164, 244);
+    }
+    h2{
+        margin-top: 8px;
+        color: rgb(18, 50, 17);
+        margin-left: 12px;
+          background-color: rgb(74, 164, 244);
+        font-family: cursive;
+    }
+    .open{
+        margin-top: 18px;
+        margin-left:29%;
+         background-color: rgb(74, 164, 244);
+        
+
+        
+    }
+    .open button{
+        border: 2px solid rgb(176, 52, 52);
+        width:79px;
+        height: 55px;
+        border-radius:50px;
+        background-color: aquamarine ;
+    }
